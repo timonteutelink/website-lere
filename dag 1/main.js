@@ -177,3 +177,20 @@
 //     console.log(waarde1 + waarde2);
 
 // }
+
+// let a = 10;
+
+// let b = 2;
+
+// console.log(Math.pow(a, b)); // a tot de macht b
+
+// let c = 3.4;
+
+// console.log(Math.floor(c)); // afronden naar beneden
+// console.log(Math.ceil(c)); // afronden naar boven
+
+// console.log(Math.random()); // random getal tussen 0 en 1
+
+
+// let lijst = ["henk", "steen", "banaan"];
+// console.log(lijst.length); // iedere array(lijst) heeft een lengte
