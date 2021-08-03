@@ -191,6 +191,8 @@
 
 // console.log(Math.random()); // random getal tussen 0 en 1
 
+// console.log(Math.sqrt(400)); // wortel
+
 
 // let lijst = ["henk", "steen", "banaan"];
 // console.log(lijst.length); // iedere array(lijst) heeft een lengte
